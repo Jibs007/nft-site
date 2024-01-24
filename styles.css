@@ -1,0 +1,9 @@
+body{
+    margin: 0;
+    font-family: 'Roboto', sans-serif;
+}
+
+header{
+    background-color: #5f29a3;
+    padding: 45px 0;
+}
